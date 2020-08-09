@@ -21,3 +21,30 @@ https://watchindia.net:8443/live/39429/01219/285.ts
 https://watchindia.net:8443/live/39429/01219/1762.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYALAM;MUSIC",Garshom TV
 https://watchindia.net:8443/live/39429/01219/1291.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA",ACV (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="INDIA",ACV Jukebox (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="INDIA",ACV Jukebox (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjqTQgr.png" group-title="INDIA",ACV News (New!)
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnDmR8W.png" group-title="INDIA",ACV Utsav (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnDmR8W.png" group-title="INDIA",ACV Utsav (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA",ACV Utsav Plus (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA",ACV Utsav Plus (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
