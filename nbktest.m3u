@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://watchindia.net:8443/xmltv.php?username=39429&password=01219"
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYALAM;ENTERTAINMENT",Zee Keralam
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYALAM;ENTERTAINMENT",Surya TV
 http://mhdtvworld.live/7star/7tv.php?id=150&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MALAYALAM;ENTERTAINMENT",Flowers TV
 https://watchindia.net:8443/live/39429/01219/2.ts
