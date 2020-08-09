@@ -48,3 +48,6 @@ https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.sm
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA",ACV Utsav Plus (Opt-2) (New!)
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ANANDTV-1.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Anand TV
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
